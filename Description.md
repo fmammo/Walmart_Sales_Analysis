@@ -3,26 +3,7 @@ The goal of the project is to have insight into the sales data of Walmart and ga
 
 ## Data description
 The dataset was obtained from the Kaggle. This dataset contains sales transactions from a three different walmart branches, respectively located in Mandalay, Yangon and Naypyitaw. 
-The data contains 17 columns and 995 records:
-
- ####Column                                          ####Description
-invoice_id	                                    Invoice of the sales made
-rating	                                        Rating
-branch	                                        Branch at which sales were made
-gross_income	                                  Gross Income
-city	                                          The location of the branch
-gross_margin_percentage	                        Gross margin percentage
-customer_type	                                  The type of the customer
-gender	                                        Gender of the customer making purchase
-product_line	                                  Product line of the product solf
-unit_price	                                    The price of each product
-quantity	                                      The amount of the product sold
-VAT	                                            The amount of tax on the purchase
-cogs	                                          Cost Of Goods sold
-payment_method	                                The total amount paid
-total	                                          The total cost of the purchase
-date	                                          The date on which the purchase was made
-time	                                          The time at which the purchase was made
+The data contains 17 columns and 995 records: Each columns with its description and data type provided in "Data_Descriptio.xlsx" file.
 
 ## Main Analysis parts
 Product Analysis (EDA)
